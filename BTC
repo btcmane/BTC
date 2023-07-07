@@ -1,0 +1,28 @@
+  </head>
+  <body>
+    <header class="header">
+      <div class="header__menu">
+        <div class="header__menu-items">Home</div>
+        <div class="header__menu-items">Page</div>
+        <div class="header__menu-items">List</div>
+      </div>
+    </header>
+    <main class="main">
+      <div class="main__container">
+        <div class="main__container-item main__container-item-1">
+          <span>Who are you?</span>
+          <img src="ang1.jpg" alt="" />
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque
+            cumque enim accusamus blanditiis nesciunt mollitia rerum alias ea
+            facilis voluptates.
+          </p>
+        </div>
+        <div class="main__container-item main__container-item-2">
+          <span>What do you think about me?</span>
+          <img src="ang2.jpg" alt="" />
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos
+            commodi impedit, cumque animi mollitia quo natus veritatis ipsum
+            dolores quasi.
+          </p>
